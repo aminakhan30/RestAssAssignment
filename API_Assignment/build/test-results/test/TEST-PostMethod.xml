@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostMethod" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-04T15:13:55" hostname="Aminas-MacBook-Pro.local" time="2.572">
+  <properties/>
+  <testcase name="UpdateUser4" classname="PostMethod" time="2.572"/>
+  <system-out><![CDATA[400
+{"error":"Missing password"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
